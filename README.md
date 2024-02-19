@@ -4,6 +4,10 @@ A cold, dark, purple & frosty theme.
 
 ![Preview](https://i.imgur.com/xSG96qa.png)
 
+## Download
+- BetterDiscord: https://betterdiscord.app/theme/Dark%20Matter
+- Vencord: `https://discordstyles.github.io/DarkMatter/DarkMatter.theme.css`
+
 ## Credits
 * DiscordStyles
 * Hammock for making the original theme.
